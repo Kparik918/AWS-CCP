@@ -3,6 +3,7 @@
 Personal study repository for the **AWS Certified Cloud Practitioner (CLF-C02)** exam — built while preparing using AWS Skill Builder (all 13 modules). Contains module-wise notes and a set of Python CLI quiz scripts used for self-testing during prep.
 
 **Result:** Passed CLF-C02 on **July 30, 2026** — Score: **798/1000**
+
 **Credly Badge:** https://www.credly.com/badges/2aa39fb8-9431-41ae-97ed-21738a642649/public_url
 
 ---
