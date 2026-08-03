@@ -37,7 +37,6 @@ python quiz-scripts/<module_name>.py
 ## Exam Info
 
 | | |
-|---|---|
 | Exam | AWS Certified Cloud Practitioner (CLF-C02) |
 | Date | July 30, 2026 |
 | Score | 798 / 1000 |
