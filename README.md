@@ -8,11 +8,11 @@ Personal study repository for the **AWS Certified Cloud Practitioner (CLF-C02)**
 
 ---
 
-## 📖 About
+## About
 
 This repo documents my end-to-end prep for AWS CCP — from concept notes to self-built quiz tooling. It's a part of my ongoing cloud & infra learning path (RHCSA → AWS CCP → RHCE → CKS → Terraform Associate → AWS Security Specialty → CISSP).
 
-## 📂 Repo Structure
+## Repo Structure
 
 ```
 .
@@ -21,11 +21,11 @@ This repo documents my end-to-end prep for AWS CCP — from concept notes to sel
 └── README.md
 ```
 
-## 📝 Notes
+## Notes
 
 Covers all 13 modules of the CLF-C02 syllabus — cloud concepts, security & compliance, technology/core services, and billing & pricing — written as revision-focused notes with comparison tables and exam-trap callouts.
 
-## 🐍 Quiz Scripts
+## Quiz Scripts
 
 Python CLI scripts, one per module, used for self-testing in exam-mode (no per-question feedback, results shown at the end with a topic-wise breakdown).
 
@@ -34,7 +34,7 @@ Python CLI scripts, one per module, used for self-testing in exam-mode (no per-q
 python quiz-scripts/<module_name>.py
 ```
 
-## 🎓 Exam Info
+## Exam Info
 
 | | |
 |---|---|
