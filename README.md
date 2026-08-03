@@ -10,7 +10,7 @@ Personal study repository for the **AWS Certified Cloud Practitioner (CLF-C02)**
 
 ## 📖 About
 
-This repo documents my end-to-end prep for AWS CCP — from concept notes to self-built quiz tooling. It's a companion to my [RHCSA repo](https://github.com/Kparik918/RHCSA), part of my ongoing cloud & infra learning path (RHCSA → AWS CCP → RHCE → CKS → Terraform Associate → AWS Security Specialty → CISSP).
+This repo documents my end-to-end prep for AWS CCP — from concept notes to self-built quiz tooling. It's a part of my ongoing cloud & infra learning path (RHCSA → AWS CCP → RHCE → CKS → Terraform Associate → AWS Security Specialty → CISSP).
 
 ## 📂 Repo Structure
 
@@ -43,7 +43,3 @@ python quiz-scripts/<module_name>.py
 | Score | 798 / 1000 |
 | Format | 65 questions, 90 minutes |
 
-
-## 📄 License
-
-MIT
