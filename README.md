@@ -42,9 +42,6 @@ python quiz-scripts/<module_name>.py
 | Score | 798 / 1000 |
 | Format | 65 questions, 90 minutes |
 
-## 🔗 Related
-
-- [RHCSA Repo](https://github.com/Kparik918/RHCSA) — Red Hat Certified System Administrator prep
 
 ## 📄 License
 
